@@ -1,13 +1,11 @@
-Webpack 4 Boilerplate
+Simple HTML Canvas Game base on WebPack 4
 ===========
 
-[![Dependency Status](https://david-dm.org/cvgellhorn/webpack-boilerplate.svg)](https://david-dm.org/cvgellhorn/webpack-boilerplate) 
-[![devDependency Status](https://david-dm.org/cvgellhorn/webpack-boilerplate/dev-status.svg)](https://david-dm.org/cvgellhorn/webpack-boilerplate)
 
-> Plain webpack 4 boilerplate with Babel, SASS and lodash on board
+> Plain webpack 4 with Babel, SASS and lodash on board
 
 ## Requirements
-You only need <b>node.js</b> pre-installed and you’re good to go. 
+You only need <b>node.js</b> pre-installed and you’re good to go.
 
 If you don’t want to work with lodash, just remove it from the node packages and the webpack config.
 
