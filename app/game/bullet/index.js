@@ -1,8 +1,8 @@
-import ObjectCanvas from '../object';
+import CanvasObject from '../object';
 import { getDistance } from '../helpers';
 
 
-export default class Bullet extends ObjectCanvas {
+export default class Bullet extends CanvasObject {
     constructor(ctx, x, y, eX, eY) {
         super(ctx);
         this._x = x;
